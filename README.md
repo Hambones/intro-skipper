@@ -27,9 +27,9 @@
 ```
 https://hambones.github.io/intro-skipper/manifest.json
 ```
-**Important: This URL returns a manifest based on the Jellyfin version used to access it.
+**Important: This URL serves a Jellyfin plugin catalog manifest.**
 <br />
-It will NOT return a manifest when viewed in a browser, as no Jellyfin version is provided.**
+If the manifest still does not show in Jellyfin, verify the repository URL and ensure the release ZIP is publicly accessible.
 
 ### As of Jellyfin 10.10, Intro Skipper does **NOT** modify the UI.
 

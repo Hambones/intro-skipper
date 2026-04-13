@@ -1,14 +1,22 @@
-{
-  "Repository": "hambones/intro-skipper",
-  "Items": [
-    {
-      "Name": "Intro Skipper (hambones fork)",
-      "Id": "7f3e2b9a-6c4d-4b2a-9f1e-5c3d2a1b0e4f",
-      "Version": "0.1.0",
-      "PackageUrl": "https://hambones.github.io/intro-skipper/releases/intro-skipper-0.1.0.zip",
-      "JellyfinMinVersion": "10.11.6",
-      "JellyfinMaxVersion": "11.0.0",
-      "Notes": "Initial fork release with new GUID."
-    }
-  ]
-}
+[
+  {
+    "guid": "7f3e2b9a-6c4d-4b2a-9f1e-5c3d2a1b0e4f",
+    "name": "Intro Skipper (hambones fork)",
+    "overview": "Forked Intro Skipper plugin packaged for a custom Jellyfin repository.",
+    "description": "Intro Skipper analyzes episode audio to automatically skip intros. This fork uses a custom GUID and manifest for independent installation.",
+    "owner": "hambones",
+    "category": "General",
+    "imageUrl": "https://raw.githubusercontent.com/hambones/intro-skipper/main/images/logo.png",
+    "versions": [
+      {
+        "version": "0.1.0",
+        "changelog": "Initial fork release with custom GUID.",
+        "targetAbi": "10.11.6.0",
+        "sourceUrl": "https://hambones.github.io/intro-skipper/releases/intro-skipper-0.1.0.zip",
+        "checksum": "EA1600DB1344D71F0521734CA4B4F3FB",
+        "timestamp": "2026-04-13T00:00:00Z",
+        "dependencies": []
+      }
+    ]
+  }
+]
