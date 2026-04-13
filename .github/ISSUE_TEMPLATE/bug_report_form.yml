@@ -14,7 +14,7 @@ body:
       options:
         - label: I use Jellyfin 10.11.6 (or newer) and my permissions are correct
           required: true
-        - label: I installed the Plugin using `https://intro-skipper.org/manifest.json` or `https://manifest.intro-skipper.org/manifest.json`
+        - label: I installed the Plugin using `https://hambones.github.io/intro-skipper/manifest.json` or `https://intro-skipper.org/manifest.json`
           required: true
   - type: textarea
     attributes:

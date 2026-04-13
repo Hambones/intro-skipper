@@ -144,7 +144,7 @@ namespace IntroSkipper.Services
         {
             JObject payload = new JObject
             {
-                { "id", "c83d86bb-a1e0-4c35-a113-e2101cf4ee6b" },
+                { "id", "7f3e2b9a-6c4d-4b2a-9f1e-5c3d2a1b0e4f" },
                 { "fileNamePattern", "main.jellyfin.bundle.js" },
                 { "callbackAssembly", GetType().Assembly.FullName },
                 { "callbackClass", typeof(Injector).FullName },

@@ -145,7 +145,7 @@ public partial class Plugin : BasePlugin<PluginConfiguration>, IHasWebPages
     public override string Name => "Intro Skipper";
 
     /// <inheritdoc />
-    public override Guid Id => Guid.Parse("c83d86bb-a1e0-4c35-a113-e2101cf4ee6b");
+    public override Guid Id => Guid.Parse("7f3e2b9a-6c4d-4b2a-9f1e-5c3d2a1b0e4f");
 
     /// <summary>
     /// Gets the plugin instance.

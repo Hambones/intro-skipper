@@ -25,7 +25,7 @@
 > * Reload the plugin page without cache (`CTRL + F5` for Windows/Linux or `SHIFT + CMD + R` for macOS)
 
 ```
-https://intro-skipper.org/manifest.json
+https://hambones.github.io/intro-skipper/manifest.json
 ```
 **Important: This URL returns a manifest based on the Jellyfin version used to access it.
 <br />
@@ -111,4 +111,4 @@ Companies that kindly allow us to use their stuff:
 | [DigitalOcean](https://www.digitalocean.com/?refcode=8471e96eb6dd)                                                                                                                                                                                                                           | [SignPath](https://signpath.org/)                                                                                  |
 |-|-
 | [![do_logo_vertical_blue svg](https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg)](https://www.digitalocean.com/) | [ ![Image](https://github.com/user-attachments/assets/2b5679e0-76a4-4ae7-bb37-a6a507a53466)](https://signpath.org/) |
-| Hosting of various services                                                                                                                                                                                                                                               | Free code signing provided by [SignPath.io](https://about.signpath.io/), certificate by [SignPath Foundation](https://signpath.org/).  
+| Hosting of various services                                                                                                                                                                                                                                               | Free code signing provided by [SignPath.io](https://about.signpath.io/), certificate by [SignPath Foundation](https://signpath.org/).
