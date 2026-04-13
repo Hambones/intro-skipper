@@ -2,7 +2,7 @@
 set -euo pipefail
 
 VERSION=${1:-0.0.0}
-OUTPUT_DIR=${2:-releases}
+OUTPUT_DIR=${2:-docs/releases}
 BUILD_DIR=${3:-IntroSkipper/bin/Release/net9.0}
 
 if [ ! -d "$BUILD_DIR" ]; then

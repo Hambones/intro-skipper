@@ -1,6 +1,6 @@
 param(
     [string]$Version = "0.0.0",
-    [string]$OutputDir = "releases",
+    [string]$OutputDir = "docs/releases",
     [string]$BuildDir = "IntroSkipper/bin/Release/net9.0"
 )
 
